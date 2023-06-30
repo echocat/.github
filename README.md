@@ -1,2 +1,2 @@
-# .github
+# echocat
 Description of echocat @ GitHub
